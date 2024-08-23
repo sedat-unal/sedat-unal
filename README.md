@@ -3,7 +3,6 @@
 - 🔭 I’m currently working as a Backend Developer at [International Blockchain Lab](https://github.com/international-blockchain-lab)
 - 🌱 I’m currently learning advanced blockchain technologies, microservices architecture, and scalable backend systems.
 - 👯 I’m looking to collaborate on open-source backend development initiatives.
-- 🤔 I’m looking for help with smart contract optimization and scaling distributed systems.
 - 💬 Ask me about Python, ASP.NET, PHP, and backend architecture.
 - 📫 How to reach me: You can contact me via [email](mailto:sedatunal42@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sedat-unal/).
 - ⚡ Fun fact: I enjoy experimenting with AI in my free time and am a huge fan of sci-fi novels.
